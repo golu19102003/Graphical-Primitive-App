@@ -1,6 +1,6 @@
-Project Title: Graphical Primitives
-Project Description:
-This Android app demonstrates the use of graphical primitives in Android, including points, lines, shapes, and text. The app allows users to interact with various graphical elements, showcasing the capabilities of Android's graphics API.
+Project Title: Graphical Primitives.
+
+Project Description:This Android app demonstrates the use of graphical primitives in Android, including points, lines, shapes, and text. The app allows users to interact with various graphical elements, showcasing the capabilities of Android's graphics API.
 
 Features:
 1. Point Drawing: Draw points on the screen with varying colors and sizes.
