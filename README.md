@@ -39,4 +39,3 @@ API documentation will be generated using Javadoc comments in the Java source co
 License:
 The project will be licensed under the MIT License.
 
-Feel free to modify this template to fit your specific project needs!
